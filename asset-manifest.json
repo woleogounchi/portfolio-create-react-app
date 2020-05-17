@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/woleogounchi/portfolio-create-react-app/static/css/main.745342b2.chunk.css",
+    "main.js": "/woleogounchi/portfolio-create-react-app/static/js/main.34e7f31d.chunk.js",
+    "main.js.map": "/woleogounchi/portfolio-create-react-app/static/js/main.34e7f31d.chunk.js.map",
+    "runtime-main.js": "/woleogounchi/portfolio-create-react-app/static/js/runtime-main.be58f128.js",
+    "runtime-main.js.map": "/woleogounchi/portfolio-create-react-app/static/js/runtime-main.be58f128.js.map",
+    "static/js/2.b566c1c1.chunk.js": "/woleogounchi/portfolio-create-react-app/static/js/2.b566c1c1.chunk.js",
+    "static/js/2.b566c1c1.chunk.js.map": "/woleogounchi/portfolio-create-react-app/static/js/2.b566c1c1.chunk.js.map",
+    "index.html": "/woleogounchi/portfolio-create-react-app/index.html",
+    "precache-manifest.662f389d3dbfe234a13abe03365eed5d.js": "/woleogounchi/portfolio-create-react-app/precache-manifest.662f389d3dbfe234a13abe03365eed5d.js",
+    "service-worker.js": "/woleogounchi/portfolio-create-react-app/service-worker.js",
+    "static/css/main.745342b2.chunk.css.map": "/woleogounchi/portfolio-create-react-app/static/css/main.745342b2.chunk.css.map",
+    "static/js/2.b566c1c1.chunk.js.LICENSE.txt": "/woleogounchi/portfolio-create-react-app/static/js/2.b566c1c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be58f128.js",
+    "static/js/2.b566c1c1.chunk.js",
+    "static/css/main.745342b2.chunk.css",
+    "static/js/main.34e7f31d.chunk.js"
+  ]
+}
